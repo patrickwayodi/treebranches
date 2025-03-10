@@ -35,3 +35,16 @@ The family tree's raw data will be stored within the page using the JSON format.
 You can view the project's source code by opening this page on a computer's browser and
 then right-clicking anywhere on the page and selecting "View page source".
 
+
+## Terms of Use
+
+This program is free software; you can redistribute it and/or modify it under the terms
+of the GNU General Public License (version 3) as published by the Free Software
+Foundation.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this
+program; if not, see <https://www.gnu.org/licenses/>.
